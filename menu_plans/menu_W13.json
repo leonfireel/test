@@ -1,0 +1,79 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Grilled Halloumi and Watermelon Salad with Mint, Cucumber, and Olive Oil + Whole Grain Bread",
+      "dinner": "Mushroom and Spinach Risotto with Parmesan and Side of Arugula Salad (Lemon Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Boeuf Bourguignon (Frozen Meal) with Steamed Green Beans and Mashed Potatoes",
+      "dinner": "Grilled Pork Chops with Apple Compote, Roasted Brussels Sprouts, and Wild Rice"
+    },
+    "wednesday": {
+      "lunch": "Crispy Tofu Burger with Avocado, Lettuce, Tomato, and Whole Wheat Bun + Sweet Potato Fries",
+      "dinner": "Thai Green Curry with Shrimp, Bell Peppers, Bamboo Shoots, and Jasmine Rice"
+    },
+    "thursday": {
+      "lunch": "Mediterranean Chickpea-Free Salad with Cucumber, Cherry Tomatoes, Red Onion, Olives, and Olive Oil + Grilled Halloumi",
+      "dinner": "Picard Coq au Vin (Frozen Meal) with Side of Steamed Asparagus and Crusty Bread"
+    },
+    "friday": {
+      "lunch": "Smoked Trout and Cream Cheese Bagel with Capers, Red Onion, and Side of Mixed Greens",
+      "dinner": "Lamb Kofta Kebabs with Tzatziki, Grilled Zucchini, and Couscous"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "watermelon (300g)",
+      "mint (1 bunch)",
+      "cucumber (2 units)",
+      "mushrooms (300g)",
+      "spinach (200g)",
+      "arugula (100g)",
+      "green beans (300g)",
+      "brussels sprouts (300g)",
+      "avocado (2 units)",
+      "lettuce (1 head)",
+      "tomato (2 units)",
+      "cherry tomatoes (200g)",
+      "red onion (2 units)",
+      "bell peppers (2 units)",
+      "bamboo shoots (1 can)",
+      "asparagus (1 bunch)",
+      "zucchini (2 units)"
+    ],
+    "meat": [
+      "pork chops (2 units)",
+      "shrimp (300g)",
+      "lamb mince (300g)"
+    ],
+    "dairy": [
+      "halloumi (200g)",
+      "parmesan (100g)",
+      "cream cheese (150g)",
+      "greek yogurt (200g)"
+    ],
+    "grains": [
+      "whole grain bread (1 loaf)",
+      "arborio rice (200g)",
+      "wild rice (200g)",
+      "jasmine rice (200g)",
+      "whole wheat buns (2 units)",
+      "couscous (200g)",
+      "crusty bread (1 unit)"
+    ],
+    "others": [
+      "tofu (300g)",
+      "sweet potato (2 units)",
+      "smoked trout (200g)",
+      "capers (50g)",
+      "olives (100g)",
+      "olive oil (1 bottle)",
+      "lemon (2 units)",
+      "apple (2 units)",
+      "thai green curry paste (1 jar)",
+      "tzatziki (1 jar)",
+      "Picard Boeuf Bourguignon (1 meal)",
+      "Picard Coq au Vin (1 meal)"
+    ]
+  }
+}
