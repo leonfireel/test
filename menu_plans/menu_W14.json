@@ -1,73 +1,78 @@
 {
   "meal_plan": {
     "monday": {
-      "lunch": "Quinoa and Roasted Vegetable Stuffed Bell Peppers with Mozzarella and Side Salad (Mixed Greens, Cherry Tomatoes, Olive Oil)",
-      "dinner": "Courgette and Pea Risotto with Parmesan and Side of Grilled Asparagus"
+      "lunch": "Egg and Spinach Muffin with Cherry Tomatoes, Mozzarella, and Side of Mixed Greens (Lemon-Olive Oil Dressing)",
+      "dinner": "Ratatouille Niçoise with Poached Eggs and Crusty Bread"
     },
     "tuesday": {
-      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Sautéed Green Beans and Crusty Bread",
-      "dinner": "Grilled Mackerel with Lemon and Herbs, Ratatouille, and Herbed Couscous"
+      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Sautéed Zucchini and Carrots",
+      "dinner": "Grilled Turkey Cutlets with Mustard-Honey Glaze, Roasted Potatoes, and Steamed Green Beans"
     },
     "wednesday": {
-      "lunch": "Falafel-Free Chickpea Burger with Avocado, Lettuce, Tomato, and Whole Wheat Bun + Side of Roasted Sweet Potato Wedges",
-      "dinner": "Picard Lasagnes à la Bolognaise (Frozen Meal) with Side Salad (Arugula, Shaved Parmesan, Lemon Dressing)"
+      "lunch": "Portobello Mushroom Burger with Caramelized Onions, Swiss Cheese, and Whole Wheat Bun + Side of Sweet Potato Fries",
+      "dinner": "Thai Red Curry with Chicken, Pineapple, Bell Peppers, and Jasmine Rice"
     },
     "thursday": {
-      "lunch": "Grilled Chicken Caesar Salad with Croutons, Parmesan, and Light Dressing + Whole Grain Baguette",
-      "dinner": "Pan-Seared Scallops with Garlic Butter, Sautéed Spinach, and Wild Rice"
+      "lunch": "Tuna and White Bean-Free Salad with Cherry Tomatoes, Cucumber, Red Onion, and Olive Oil + Whole Grain Baguette",
+      "dinner": "Picard Boeuf Bourguignon (Frozen Meal) with Side of Buttered Egg Noodles and Steamed Broccoli"
     },
     "friday": {
-      "lunch": "Smoked Salmon and Cream Cheese Tartine with Capers, Red Onion, and Side of Mixed Greens",
-      "dinner": "Beef and Bell Pepper Stir-Fry with Snap Peas and Jasmine Rice"
+      "lunch": "Grilled Halloumi and Peach Salad with Arugula, Walnuts, and Balsamic Glaze + Whole Grain Bread",
+      "dinner": "Pan-Seared Cod with Lemon-Caper Sauce, Sautéed Spinach, and Herbed Couscous"
     }
   },
   "shopping_list": {
     "vegetables": [
-      "bell peppers (4 units)",
-      "mixed greens (200g)",
-      "cherry tomatoes (300g)",
-      "asparagus (1 bunch)",
-      "courgette (2 units)",
-      "peas (200g)",
-      "green beans (300g)",
-      "avocado (2 units)",
-      "lettuce (1 head)",
-      "tomato (2 units)",
-      "sweet potato (2 units)",
-      "arugula (100g)",
       "spinach (200g)",
-      "bell peppers (3 units)",
-      "snap peas (200g)"
+      "cherry tomatoes (300g)",
+      "mixed greens (150g)",
+      "zucchini (2 units)",
+      "carrots (3 units)",
+      "potatoes (4 units)",
+      "green beans (300g)",
+      "portobello mushrooms (2 units)",
+      "onion (2 units)",
+      "bell peppers (2 units)",
+      "cucumber (1 unit)",
+      "red onion (1 unit)",
+      "arugula (100g)",
+      "peach (2 units)",
+      "broccoli (300g)"
     ],
     "meat": [
-      "mackerel (2 units)",
+      "turkey cutlets (300g)",
       "chicken breast (300g)",
-      "beef strips (300g)"
+      "cod fillets (300g)"
     ],
     "dairy": [
-      "mozzarella (200g)",
-      "parmesan (150g)",
-      "cream cheese (150g)"
+      "eggs (6 units)",
+      "mozzarella (150g)",
+      "swiss cheese (100g)",
+      "halloumi (200g)",
+      "butter (100g)"
     ],
     "grains": [
-      "quinoa (200g)",
-      "couscous (200g)",
       "whole wheat buns (2 units)",
-      "wild rice (200g)",
+      "sweet potato fries (300g)",
       "jasmine rice (200g)",
+      "egg noodles (200g)",
+      "couscous (200g)",
       "whole grain baguette (1 unit)",
-      "arborio rice (200g)"
+      "crusty bread (1 unit)"
     ],
     "others": [
-      "scallops (300g)",
-      "smoked salmon (200g)",
-      "capers (50g)",
+      "tuna in olive oil (200g)",
+      "pineapple (200g)",
+      "walnuts (50g)",
+      "thai red curry paste (1 jar)",
+      "mustard (1 jar)",
+      "honey (1 jar)",
       "olive oil (1 bottle)",
       "lemon (3 units)",
-      "garlic (1 head)",
-      "croutons (100g)",
+      "capers (50g)",
+      "balsamic glaze (1 bottle)",
       "Picard Hachis Parmentier (1 meal)",
-      "Picard Lasagnes à la Bolognaise (1 meal)"
+      "Picard Boeuf Bourguignon (1 meal)"
     ]
   }
 }
