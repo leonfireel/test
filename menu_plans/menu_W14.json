@@ -1,0 +1,78 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Vegetarian Croque Monsieur with Gruyère and Mushrooms, Side of Mixed Greens with Dijon Vinaigrette",
+      "dinner": "Ratatouille with Poached Eggs and Crusty Bread"
+    },
+    "tuesday": {
+      "lunch": "Picard Vegetable Lasagna with Side of Arugula Salad (Lemon-Olive Oil Dressing)",
+      "dinner": "Pan-Seared Duck Breast with Cherry Sauce, Roasted Potatoes, and Sautéed Green Beans"
+    },
+    "wednesday": {
+      "lunch": "Beetroot and Goat Cheese-Free Burger with Walnuts, Lettuce, and Whole Wheat Bun, Side of Sweet Potato Fries",
+      "dinner": "Grilled Mackerel with Lemon-Herb Butter, Quinoa, and Steamed Asparagus"
+    },
+    "thursday": {
+      "lunch": "Melon and Mozzarella Salad with Basil, and Balsamic Glaze, Side of Grissini and Mixed Greens",
+      "dinner": "Picard Poulet Basquaise with Side of Steamed Broccoli and Crusty Bread"
+    },
+    "friday": {
+      "lunch": "Tuna Niçoise Salad with Green Beans, Cherry Tomatoes, Olives, Hard-Boiled Eggs, and Olive Oil Dressing",
+      "dinner": "Pork Tenderloin with Mustard Cream Sauce, Mashed Cauliflower, and Roasted Carrots"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "mixed greens (300g)",
+      "arugula (100g)",
+      "eggplant (1 unit)",
+      "zucchini (2 units)",
+      "bell pepper (2 units)",
+      "onion (2 units)",
+      "garlic (1 head)",
+      "green beans (300g)",
+      "asparagus (1 bunch)",
+      "broccoli (1 head)",
+      "carrot (4 units)",
+      "beetroot (2 units)",
+      "lettuce (1 head)",
+      "cherry tomatoes (300g)",
+      "potatoes (400g)",
+      "cauliflower (1 small head)",
+      "sweet potato (2 units)",
+      "mushrooms (100g)"
+    ],
+    "meat": [
+      "duck breast (2 units)",
+      "mackerel (2 fillets)",
+      "pork tenderloin (300g)"
+    ],
+    "dairy": [
+      "gruyère (150g)",
+      "mozzarella (150g)",
+      "eggs (6 units)",
+      "butter (150g)",
+      "cream (100ml)"
+    ],
+    "grains": [
+      "whole wheat bread (1 loaf)",
+      "whole wheat buns (2 units)",
+      "crusty bread (1 unit)",
+      "quinoa (200g)",
+      "grissini (1 pack)"
+    ],
+    "others": [
+      "melon (1 small unit)",
+      "balsamic glaze (1 small bottle)",
+      "dijon mustard (1 small jar)",
+      "olive oil (1 bottle)",
+      "lemon (3 units)",
+      "cherry sauce (1 small jar)",
+      "mustard (1 small jar)",
+      "olives (100g)",
+      "walnuts (50g)",
+      "Picard Vegetable Lasagna (1 meal)",
+      "Picard Poulet Basquaise (1 meal)"
+    ]
+  }
+}
