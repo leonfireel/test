@@ -1,0 +1,78 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Caprese Stuffed Avocado with Cherry Tomatoes, Basil, Mozzarella, and Balsamic Glaze + Whole Grain Toast",
+      "dinner": "Spinach and Ricotta Stuffed Shells with Side Salad (Mixed Greens, Cucumber, Olive Oil, Lemon)"
+    },
+    "tuesday": {
+      "lunch": "Picard Poulet Basquaise (Frozen Meal) with Steamed Broccoli and Quinoa",
+      "dinner": "Pan-Seared Duck Breast with Orange Sauce, Roasted Carrots, and Mashed Sweet Potatoes"
+    },
+    "wednesday": {
+      "lunch": "Black Bean and Corn Veggie Burger with Lettuce, Tomato, and Whole Wheat Bun + Sweet Potato Fries",
+      "dinner": "Shrimp and Zucchini Noodles with Garlic, Olive Oil, and Parmesan"
+    },
+    "thursday": {
+      "lunch": "Greek Orzo Salad with Cucumber, Cherry Tomatoes, Red Onion, Kalamata Olives, and Feta-Free Dressing + Grilled Halloumi",
+      "dinner": "Picard Lasagnes à la Bolognaise (Frozen Meal) with Side Salad (Arugula, Shaved Parmesan, Lemon Dressing)"
+    },
+    "friday": {
+      "lunch": "Smoked Salmon and Cream Cheese Bagel with Capers, Red Onion, and Side of Mixed Greens",
+      "dinner": "Chicken and Vegetable Stir-Fry with Bell Peppers, Snap Peas, and Brown Rice"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "avocado (2 units)",
+      "cherry tomatoes (300g)",
+      "basil (1 bunch)",
+      "spinach (200g)",
+      "mixed greens (100g)",
+      "cucumber (2 units)",
+      "broccoli (300g)",
+      "carrots (4 units)",
+      "sweet potatoes (2 units)",
+      "zucchini (2 units)",
+      "lettuce (1 head)",
+      "red onion (2 units)",
+      "kalamata olives (100g)",
+      "arugula (100g)",
+      "bell peppers (2 units)",
+      "snap peas (200g)"
+    ],
+    "meat": [
+      "duck breast (2 units)",
+      "shrimp (300g)",
+      "chicken breast (300g)"
+    ],
+    "dairy": [
+      "mozzarella (200g)",
+      "ricotta (250g)",
+      "parmesan (100g)",
+      "cream cheese (150g)",
+      "halloumi (150g)"
+    ],
+    "grains": [
+      "whole grain bread (1 loaf)",
+      "jumbo pasta shells (200g)",
+      "quinoa (200g)",
+      "whole wheat buns (2 units)",
+      "orzo (200g)",
+      "brown rice (200g)",
+      "bagels (2 units)"
+    ],
+    "others": [
+      "black bean burger patties (2 units)",
+      "sweet potato fries (300g)",
+      "smoked salmon (200g)",
+      "capers (50g)",
+      "Picard Poulet Basquaise (1 meal)",
+      "Picard Lasagnes à la Bolognaise (1 meal)",
+      "balsamic glaze (1 bottle)",
+      "olive oil (1 bottle)",
+      "lemon (2 units)",
+      "orange (2 units)",
+      "garlic (1 head)"
+    ]
+  }
+}
