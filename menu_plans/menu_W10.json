@@ -1,0 +1,81 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Quinoa and Roasted Vegetable Salad with Grilled Halloumi, Cherry Tomatoes, and Basil Pesto + Whole Grain Bread",
+      "dinner": "Eggplant and Mozzarella Parmigiana with Side of Mixed Greens (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Boeuf Bourguignon (Frozen Meal) with Steamed Haricots Verts and Mashed Cauliflower",
+      "dinner": "Pan-Seared Scallops with Garlic Butter, Sautéed Spinach, and Parmesan Polenta"
+    },
+    "wednesday": {
+      "lunch": "Portobello Mushroom Burger with Caramelized Onions, Swiss Cheese, and Whole Wheat Bun + Side of Coleslaw",
+      "dinner": "Chicken Tikka Masala with Basmati Rice and Cucumber Raita"
+    },
+    "thursday": {
+      "lunch": "Niçoise Salad with Seared Tuna, Green Beans, Cherry Tomatoes, Olives, Hard-Boiled Eggs, and Olive Oil Dressing",
+      "dinner": "Picard Poulet Basquaise (Frozen Meal) with Side of Steamed Broccolini and Crusty Bread"
+    },
+    "friday": {
+      "lunch": "Grilled Cheese and Tomato Sandwich with Basil and Mozzarella + Side of Carrot and Cucumber Sticks",
+      "dinner": "Beef and Broccoli Stir-Fry with Soy-Ginger Sauce and Jasmine Rice"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "eggplant (1 unit)",
+      "cherry tomatoes (300g)",
+      "basil (1 bunch)",
+      "mixed greens (200g)",
+      "haricots verts (300g)",
+      "cauliflower (1 small head)",
+      "spinach (200g)",
+      "portobello mushrooms (2 units)",
+      "onion (2 units)",
+      "cabbage (200g)",
+      "green beans (200g)",
+      "broccolini (1 bunch)",
+      "carrot (3 units)",
+      "cucumber (2 units)",
+      "broccoli (300g)"
+    ],
+    "meat": [
+      "scallops (300g)",
+      "chicken breast (300g)",
+      "tuna steak (2 units)",
+      "beef strips (300g)"
+    ],
+    "dairy": [
+      "halloumi (200g)",
+      "mozzarella (200g)",
+      "parmesan (100g)",
+      "swiss cheese (100g)",
+      "butter (100g)",
+      "eggs (4 units)",
+      "greek yogurt (200g)"
+    ],
+    "grains": [
+      "quinoa (200g)",
+      "whole grain bread (1 loaf)",
+      "whole wheat buns (2 units)",
+      "polenta (200g)",
+      "basmati rice (200g)",
+      "jasmine rice (200g)",
+      "crusty bread (1 unit)"
+    ],
+    "others": [
+      "olives (100g)",
+      "olive oil (1 bottle)",
+      "lemon (2 units)",
+      "garlic (1 head)",
+      "ginger (1 small piece)",
+      "balsamic vinegar (1 bottle)",
+      "pesto (1 jar)",
+      "mayonnaise (1 small jar)",
+      "soy sauce (1 bottle)",
+      "tikka masala sauce (1 jar)",
+      "Picard Boeuf Bourguignon (1 meal)",
+      "Picard Poulet Basquaise (1 meal)"
+    ]
+  }
+}
