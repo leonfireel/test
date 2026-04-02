@@ -1,0 +1,80 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Caprese Salad with Mozzarella, Tomato, and Basil + Whole Grain Bread + Hard-Boiled Eggs (2)",
+      "dinner": "Spinach and Ricotta Stuffed Shells with Side Salad (Mixed Greens, Cherry Tomatoes, Cucumber, Balsamic Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Poulet Basquaise (Frozen Meal) with Steamed Green Beans",
+      "dinner": "Grilled Chicken Breast with Ratatouille (Zucchini, Eggplant, Bell Pepper, Tomato) and Quinoa"
+    },
+    "wednesday": {
+      "lunch": "Veggie Burger (Chickpea and Carrot Patty) with Avocado, Lettuce, Tomato, and Whole Wheat Bun + Sweet Potato Fries",
+      "dinner": "Shrimp and Asparagus Stir-Fry with Soy-Ginger Sauce and Brown Rice"
+    },
+    "thursday": {
+      "lunch": "Picard Lasagnes à la Bolognaise (Frozen Meal) with Side Salad (Arugula, Cherry Tomatoes, Parmesan)",
+      "dinner": "Grilled Salmon with Lemon-Dill Sauce, Steamed Broccoli, and Couscous"
+    },
+    "friday": {
+      "lunch": "Mediterranean Tuna Salad (Tuna, Cherry Tomatoes, Cucumber, Red Onion, Olives, Olive Oil, Lemon) with Whole Grain Crackers",
+      "dinner": "Margherita Pizza (Homemade or Pre-made Dough) with Side Salad (Mixed Greens, Shaved Parmesan, Balsamic Glaze)"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "tomato (6 units)",
+      "basil (1 bunch)",
+      "spinach (200g)",
+      "green beans (300g)",
+      "zucchini (2 units)",
+      "eggplant (1 unit)",
+      "bell pepper (2 units)",
+      "asparagus (1 bunch)",
+      "broccoli (300g)",
+      "mixed greens (200g)",
+      "arugula (100g)",
+      "cherry tomatoes (300g)",
+      "cucumber (2 units)",
+      "red onion (1 unit)",
+      "carrot (2 units)",
+      "avocado (1 unit)",
+      "lettuce (1 head)"
+    ],
+    "meat": [
+      "chicken breast (2 units)",
+      "shrimp (300g)",
+      "salmon fillet (2 units)",
+      "ground beef (200g, for lasagnes)"
+    ],
+    "dairy": [
+      "mozzarella (200g)",
+      "ricotta (250g)",
+      "parmesan (100g)",
+      "eggs (4 units)"
+    ],
+    "grains": [
+      "whole grain bread (1 loaf)",
+      "whole wheat buns (2 units)",
+      "quinoa (200g)",
+      "brown rice (200g)",
+      "couscous (200g)",
+      "pizza dough (1 unit or pre-made)"
+    ],
+    "others": [
+      "chickpeas (200g, for veggie burger)",
+      "tuna in olive oil (2 cans)",
+      "olives (100g)",
+      "whole grain crackers (1 box)",
+      "sweet potato (2 units)",
+      "Picard Poulet Basquaise (1 meal)",
+      "Picard Lasagnes à la Bolognaise (1 meal)",
+      "soy sauce (1 bottle)",
+      "balsamic vinegar (1 bottle)",
+      "olive oil (1 bottle)",
+      "lemon (2 units)",
+      "ginger (1 small piece)",
+      "dill (1 bunch)"
+    ]
+  }
+}
