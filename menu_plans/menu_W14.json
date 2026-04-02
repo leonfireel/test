@@ -1,77 +1,74 @@
 {
   "meal_plan": {
     "monday": {
-      "lunch": "Quinoa and Roasted Vegetable Stuffed Bell Peppers with Mozzarella and Side of Mixed Greens (Balsamic Dressing)",
-      "dinner": "Zucchini and Ricotta Galette with Side Salad (Arugula, Cherry Tomatoes, Olive Oil)"
+      "lunch": "Vegetarian Niçoise Salad with Hard-Boiled Eggs, Green Beans, Cherry Tomatoes, Olives, and Anchovy-Free Dressing + Whole Grain Baguette",
+      "dinner": "Spinach and Mushroom Stuffed Crepes with Gruyère and Side Salad (Mixed Greens, Shaved Carrots, Lemon Vinaigrette)"
     },
     "tuesday": {
-      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Steamed Green Beans and Crusty Bread",
-      "dinner": "Grilled Chicken Paillard with Lemon-Caper Sauce, Ratatouille, and Couscous"
+      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Sautéed Zucchini and Crusty Bread",
+      "dinner": "Grilled Turkey Cutlets with Dijon Mustard Sauce, Ratatouille, and Herbed Couscous"
     },
     "wednesday": {
-      "lunch": "Falafel Burger with Tahini Sauce, Lettuce, Tomato, and Whole Wheat Bun + Side of Carrot and Cucumber Sticks",
-      "dinner": "Seared Scallops with Garlic Butter, Sautéed Spinach, and Parmesan Polenta"
+      "lunch": "Portobello Mushroom Burger with Caramelized Onions, Swiss Cheese, and Whole Wheat Bun + Side of Roasted Beetroot Salad",
+      "dinner": "Pan-Seared Cod with Lemon-Herb Butter, Sautéed Asparagus, and Garlic Mashed Potatoes"
     },
     "thursday": {
-      "lunch": "Prosciutto and Melon Salad with Burrata, Basil, and Grilled Ciabatta",
-      "dinner": "Picard Boeuf en Daube (Frozen Meal) with Side of Steamed Broccoli and Mashed Potatoes"
+      "lunch": "Prosciutto and Fig Salad with Gorgonzola, Walnuts, and Mixed Greens + Grilled Ciabatta",
+      "dinner": "Picard Boeuf Bourguignon (Frozen Meal) with Side of Steamed Broccoli and Crusty Bread"
     },
     "friday": {
-      "lunch": "Smoked Mackerel and Avocado Salad with Hard-Boiled Eggs, Cucumber, and Whole Grain Bread",
-      "dinner": "Pork and Apple Sausages with Caramelized Onions, Roasted Sweet Potatoes, and Sautéed Kale"
+      "lunch": "Tuna and White Bean-Free Salad with Red Onion, Capers, and Olive Oil + Whole Grain Crackers",
+      "dinner": "Beef and Mushroom Stroganoff with Egg Noodles and Side of Cucumber Salad"
     }
   },
   "shopping_list": {
     "vegetables": [
-      "bell peppers (4 units)",
-      "zucchini (3 units)",
-      "mixed greens (200g)",
-      "arugula (100g)",
-      "cherry tomatoes (300g)",
       "green beans (300g)",
-      "eggplant (1 unit)",
-      "onion (3 units)",
-      "garlic (1 head)",
-      "carrot (4 units)",
-      "cucumber (2 units)",
+      "cherry tomatoes (300g)",
+      "olives (100g)",
+      "mixed greens (200g)",
+      "carrots (3 units)",
+      "lemon (3 units)",
       "spinach (200g)",
+      "mushrooms (400g)",
+      "zucchini (2 units)",
+      "beetroot (2 units)",
+      "asparagus (1 bunch)",
       "broccoli (1 head)",
-      "sweet potatoes (2 units)",
-      "kale (200g)"
+      "cucumber (2 units)",
+      "red onion (2 units)"
     ],
     "meat": [
-      "chicken breast (300g)",
-      "scallops (300g)",
-      "pork sausages (4 units)"
+      "turkey cutlets (300g)",
+      "cod fillets (300g)",
+      "beef strips (300g)"
     ],
     "dairy": [
-      "mozzarella (150g)",
-      "ricotta (200g)",
-      "burrata (1 unit)",
-      "parmesan (100g)",
-      "butter (150g)",
-      "eggs (4 units)"
+      "eggs (4 units)",
+      "gruyère (150g)",
+      "swiss cheese (100g)",
+      "gorgonzola (100g)",
+      "butter (150g)"
     ],
     "grains": [
-      "quinoa (200g)",
+      "whole grain baguette (1 unit)",
       "whole wheat buns (2 units)",
-      "ciabatta (1 unit)",
-      "whole grain bread (1 loaf)",
       "couscous (200g)",
-      "polenta (200g)"
+      "egg noodles (200g)",
+      "ciabatta (1 unit)",
+      "whole grain crackers (1 box)",
+      "crepes (4 units)"
     ],
     "others": [
-      "falafel mix (200g)",
-      "tahini (1 small jar)",
       "prosciutto (100g)",
-      "melon (1 small unit)",
-      "balsamic glaze (1 small bottle)",
-      "olive oil (1 bottle)",
-      "lemon (3 units)",
+      "figs (4 units)",
+      "walnuts (50g)",
+      "tuna in olive oil (200g)",
       "capers (50g)",
-      "smoked mackerel (200g)",
+      "olive oil (1 bottle)",
+      "dijon mustard (1 small jar)",
       "Picard Hachis Parmentier (1 meal)",
-      "Picard Boeuf en Daube (1 meal)"
+      "Picard Boeuf Bourguignon (1 meal)"
     ]
   }
 }
