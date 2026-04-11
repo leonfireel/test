@@ -1,0 +1,77 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Egg and Avocado Sandwich on Whole Grain Bread with Side of Carrot and Cucumber Sticks",
+      "dinner": "Ratatouille with Poached Eggs and Crusty Bread"
+    },
+    "tuesday": {
+      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Sautéed Zucchini and Cherry Tomatoes",
+      "dinner": "Grilled Mackerel with Lemon Butter Sauce, Steamed Green Beans, and Roasted Potatoes"
+    },
+    "wednesday": {
+      "lunch": "Chickpea-Free Veggie Burger with Beetroot Patty, Lettuce, Tomato, and Whole Wheat Bun + Side of Sweet Potato Fries",
+      "dinner": "Chicken Tagine with Apricots, Almonds, and Couscous"
+    },
+    "thursday": {
+      "lunch": "Niçoise-Style Salad with Seared Tuna, Green Beans, Cherry Tomatoes, Olives, and Hard-Boiled Eggs + Whole Grain Baguette",
+      "dinner": "Picard Boeuf Bourguignon (Frozen Meal) with Side of Steamed Broccoli and Crusty Bread"
+    },
+    "friday": {
+      "lunch": "Grilled Cheese and Tomato Sandwich on Sourdough with Side of Mixed Greens (Balsamic Dressing)",
+      "dinner": "Pork and Apple Sausages with Mashed Cauliflower and Sautéed Apples"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "avocado (2 units)",
+      "carrot (3 units)",
+      "cucumber (2 units)",
+      "zucchini (2 units)",
+      "cherry tomatoes (400g)",
+      "eggplant (1 unit)",
+      "bell pepper (2 units)",
+      "onion (2 units)",
+      "garlic (1 head)",
+      "green beans (300g)",
+      "broccoli (300g)",
+      "cauliflower (1 unit)",
+      "beetroot (2 units)",
+      "lettuce (1 head)",
+      "tomato (3 units)",
+      "mixed greens (200g)"
+    ],
+    "meat": [
+      "mackerel (2 fillets)",
+      "chicken breast (300g)",
+      "pork sausages (4 units)",
+      "tuna steak (2 units)"
+    ],
+    "dairy": [
+      "eggs (6 units)",
+      "butter (150g)",
+      "cheddar (200g)",
+      "parmesan (50g)"
+    ],
+    "grains": [
+      "whole grain bread (1 loaf)",
+      "whole wheat buns (2 units)",
+      "sourdough bread (1 loaf)",
+      "crusty bread (1 unit)",
+      "couscous (200g)",
+      "sweet potato fries (300g)",
+      "potatoes (500g)"
+    ],
+    "others": [
+      "olives (100g)",
+      "apricots (100g)",
+      "almonds (50g)",
+      "beetroot burger patties (2 units)",
+      "balsamic dressing (1 bottle)",
+      "lemon (2 units)",
+      "olive oil (1 bottle)",
+      "Picard Hachis Parmentier (1 meal)",
+      "Picard Boeuf Bourguignon (1 meal)",
+      "apple (2 units)"
+    ]
+  }
+}
