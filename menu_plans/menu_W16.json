@@ -1,0 +1,79 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Caprese Stuffed Avocado with Balsamic Glaze and Side of Mixed Greens + Whole Grain Baguette",
+      "dinner": "Spinach and Ricotta Stuffed Shells with Side of Arugula Salad (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Lasagnes à la Bolognaise (Frozen Meal) with Side of Sautéed Zucchini and Cherry Tomatoes",
+      "dinner": "Grilled Duck Breast with Orange Sauce, Roasted Sweet Potatoes, and Steamed Green Beans"
+    },
+    "wednesday": {
+      "lunch": "Portobello Mushroom Burger with Mozzarella, Roasted Red Peppers, and Pesto Mayo + Side of Sweet Potato Fries",
+      "dinner": "Japanese Teriyaki Salmon with Stir-Fried Bok Choy and Jasmine Rice"
+    },
+    "thursday": {
+      "lunch": "Greek-Style Orzo Salad with Cucumber, Cherry Tomatoes, Kalamata Olives, Red Onion, and Feta-Free Lemon Dressing + Grilled Halloumi",
+      "dinner": "Picard Poulet Basquaise (Frozen Meal) with Side of Steamed Broccoli and Crusty Bread"
+    },
+    "friday": {
+      "lunch": "Smoked Salmon and Cream Cheese Bagel with Capers, Red Onion, and Side of Mixed Greens",
+      "dinner": "Italian Sausage and Bell Pepper Skillet with Polenta and Side of Sautéed Spinach"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "avocado (2 units)",
+      "mixed greens (200g)",
+      "zucchini (2 units)",
+      "cherry tomatoes (400g)",
+      "arugula (100g)",
+      "green beans (300g)",
+      "sweet potatoes (300g)",
+      "bok choy (300g)",
+      "cucumber (2 units)",
+      "red onion (2 units)",
+      "kalamata olives (100g)",
+      "broccoli (300g)",
+      "bell peppers (3 units)",
+      "spinach (200g)",
+      "portobello mushrooms (2 units)",
+      "tomato (2 units)"
+    ],
+    "meat": [
+      "duck breast (2 units)",
+      "salmon fillets (2 units)",
+      "italian sausages (4 units)"
+    ],
+    "dairy": [
+      "ricotta (250g)",
+      "mozzarella (200g)",
+      "halloumi (200g)",
+      "parmesan (100g)",
+      "cream cheese (150g)"
+    ],
+    "grains": [
+      "whole grain baguette (1 unit)",
+      "jumbo pasta shells (200g)",
+      "orzo (200g)",
+      "jasmine rice (200g)",
+      "polenta (200g)",
+      "whole wheat buns (2 units)",
+      "sweet potato fries (300g)",
+      "crusty bread (1 unit)"
+    ],
+    "others": [
+      "smoked salmon (200g)",
+      "capers (50g)",
+      "pesto (1 jar)",
+      "mayonnaise (1 jar)",
+      "balsamic glaze (1 bottle)",
+      "lemon (3 units)",
+      "olive oil (1 bottle)",
+      "teriyaki sauce (1 bottle)",
+      "orange (2 units)",
+      "Picard Lasagnes à la Bolognaise (1 meal)",
+      "Picard Poulet Basquaise (1 meal)"
+    ]
+  }
+}
