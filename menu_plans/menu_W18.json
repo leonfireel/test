@@ -1,0 +1,79 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Asparagus and Pea Shoot Salad with Poached Eggs, Parmesan Shavings, and Toasted Baguette Slices",
+      "dinner": "Courgette and Ricotta Galette with Side of Mixed Greens (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Saumon en Papillote (Frozen Meal) with Side of Steamed Broccoli and Quinoa",
+      "dinner": "Grilled Pork Tenderloin with Mustard Cream Sauce, Roasted Carrots, and Mashed Potatoes"
+    },
+    "wednesday": {
+      "lunch": "Falafel and Hummus-Free Chickpea Patty Burger with Tahini Sauce, Lettuce, Tomato, and Whole Wheat Bun + Side of Sweet Potato Fries",
+      "dinner": "Vietnamese Summer Rolls with Shrimp, Rice Vermicelli, Mint, and Peanut Dipping Sauce + Side of Cucumber Salad"
+    },
+    "thursday": {
+      "lunch": "Italian Farro Salad with Roasted Cherry Tomatoes, Arugula, Mozzarella Pearls, and Basil Pesto + Grilled Halloumi",
+      "dinner": "Picard Boeuf Stroganoff (Frozen Meal) with Side of Steamed Green Beans and Egg Noodles"
+    },
+    "friday": {
+      "lunch": "Grilled Vegetable Panini with Zucchini, Eggplant, Roasted Red Peppers, and Provolone Cheese + Side of Mixed Greens (Balsamic Dressing)",
+      "dinner": "Duck Confit Salad with Frisée, Walnuts, and Cherry Tomatoes (Sherry Vinaigrette)"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "asparagus (300g)",
+      "pea shoots (100g)",
+      "mixed greens (200g)",
+      "courgette (2 units)",
+      "broccoli (300g)",
+      "carrots (400g)",
+      "potatoes (500g)",
+      "sweet potato fries (300g)",
+      "lettuce (1 head)",
+      "tomato (3 units)",
+      "cherry tomatoes (300g)",
+      "arugula (100g)",
+      "cucumber (2 units)",
+      "eggplant (1 unit)",
+      "red peppers (2 units)",
+      "frisée (1 head)",
+      "green beans (300g)"
+    ],
+    "meat": [
+      "pork tenderloin (300g)",
+      "shrimp (200g)",
+      "duck confit (2 legs)"
+    ],
+    "dairy": [
+      "eggs (6 units)",
+      "parmesan (100g)",
+      "ricotta (250g)",
+      "mozzarella pearls (150g)",
+      "provolone (100g)",
+      "halloumi (200g)"
+    ],
+    "grains": [
+      "baguette (1 unit)",
+      "whole wheat buns (2 units)",
+      "quinoa (200g)",
+      "farro (200g)",
+      "egg noodles (200g)",
+      "rice vermicelli (100g)"
+    ],
+    "others": [
+      "falafel mix (200g)",
+      "tahini sauce (1 jar)",
+      "basil pesto (1 jar)",
+      "peanut butter (100g)",
+      "sherry vinegar (1 bottle)",
+      "lemon (2 units)",
+      "olive oil (1 bottle)",
+      "balsamic dressing (1 bottle)",
+      "mustard (1 jar)",
+      "Picard Saumon en Papillote (1 meal)",
+      "Picard Boeuf Stroganoff (1 meal)"
+    ]
+  }
+}
