@@ -1,0 +1,82 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Spinach and Mushroom Quiche with Side of Mixed Greens (Balsamic Dressing) + Whole Grain Baguette",
+      "dinner": "Grilled Halloumi and Watermelon Salad with Mint, Cucumber, and Pomegranate Seeds + Side of Crusty Bread"
+    },
+    "tuesday": {
+      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Sautéed Green Beans and Cherry Tomatoes",
+      "dinner": "Grilled Chicken Paillard with Lemon-Caper Sauce, Roasted New Potatoes, and Steamed Asparagus"
+    },
+    "wednesday": {
+      "lunch": "Crispy Tofu Banh Mi with Pickled Carrots, Daikon, Cucumber, and Sriracha Mayo + Side of Sweet Potato Fries",
+      "dinner": "Seared Scallops with Garlic Butter Sauce, Risotto alla Milanese, and Sautéed Spinach"
+    },
+    "thursday": {
+      "lunch": "Mediterranean Chickpea-Free Panisse Burger with Roasted Red Pepper Tapenade, Arugula, and Mozzarella + Side of Mixed Greens",
+      "dinner": "Picard Boeuf Bourguignon (Frozen Meal) with Side of Buttered Egg Noodles and Steamed Broccoli"
+    },
+    "friday": {
+      "lunch": "Niçoise-Style Salad with Seared Tuna, Green Beans, Cherry Tomatoes, Olives, and Hard-Boiled Eggs + Whole Grain Baguette",
+      "dinner": "Pork and Apple Stuffed Crepes with Side of Mixed Greens (Dijon Vinaigrette)"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "spinach (200g)",
+      "mushrooms (200g)",
+      "mixed greens (200g)",
+      "watermelon (300g)",
+      "cucumber (3 units)",
+      "mint (1 bunch)",
+      "green beans (400g)",
+      "cherry tomatoes (400g)",
+      "asparagus (300g)",
+      "new potatoes (500g)",
+      "carrots (200g)",
+      "daikon (1 unit)",
+      "arugula (100g)",
+      "broccoli (300g)",
+      "lettuce (1 head)",
+      "tomato (2 units)",
+      "olives (100g)"
+    ],
+    "meat": [
+      "chicken breast (300g)",
+      "pork tenderloin (300g)",
+      "scallops (200g)",
+      "tuna steak (200g)"
+    ],
+    "dairy": [
+      "eggs (6 units)",
+      "halloumi (200g)",
+      "mozzarella (150g)",
+      "butter (100g)",
+      "parmesan (50g)"
+    ],
+    "grains": [
+      "whole grain baguette (1 unit)",
+      "crusty bread (1 unit)",
+      "sweet potato fries (300g)",
+      "arborio rice (200g)",
+      "egg noodles (200g)",
+      "crepes (6 units)"
+    ],
+    "others": [
+      "tofu (300g)",
+      "pomegranate seeds (50g)",
+      "pickled carrots (100g)",
+      "sriracha mayo (1 jar)",
+      "roasted red pepper tapenade (1 jar)",
+      "panisse mix (200g)",
+      "lemon (3 units)",
+      "olive oil (1 bottle)",
+      "balsamic dressing (1 bottle)",
+      "dijon mustard (1 jar)",
+      "capers (50g)",
+      "Picard Hachis Parmentier (1 meal)",
+      "Picard Boeuf Bourguignon (1 meal)",
+      "apple (2 units)"
+    ]
+  }
+}
