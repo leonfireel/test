@@ -1,0 +1,79 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Caprese Stuffed Avocado with Cherry Tomatoes, Basil, and Balsamic Glaze + Side of Whole Grain Baguette",
+      "dinner": "Ratatouille with Poached Eggs and Side of Mixed Greens (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Poulet Basquaise (Frozen Meal) with Side of Steamed Green Beans and Basmati Rice",
+      "dinner": "Grilled Mackerel with Lemon-Herb Butter, Roasted New Potatoes, and Sautéed Zucchini"
+    },
+    "wednesday": {
+      "lunch": "Portobello Mushroom Burger with Caramelized Onions, Provolone Cheese, and Garlic Aioli + Side of Sweet Potato Fries",
+      "dinner": "Vietnamese Pho-Inspired Noodle Salad with Rice Noodles, Shrimp, Mint, and Peanuts"
+    },
+    "thursday": {
+      "lunch": "Italian Orzo Salad with Roasted Cherry Tomatoes, Arugula, Mozzarella Pearls, and Basil Pesto + Grilled Halloumi",
+      "dinner": "Picard Lasagnes à la Bolognaise (Frozen Meal) with Side of Mixed Greens (Balsamic Dressing)"
+    },
+    "friday": {
+      "lunch": "Grilled Vegetable and Hummus Wrap with Roasted Red Peppers, Spinach, and Feta-Free Tzatziki + Side of Cucumber Salad",
+      "dinner": "Seared Duck Breast with Cherry Port Sauce, Polenta, and Sautéed Swiss Chard"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "avocado (2 units)",
+      "cherry tomatoes (500g)",
+      "basil (1 bunch)",
+      "mixed greens (200g)",
+      "eggplant (1 unit)",
+      "zucchini (3 units)",
+      "bell peppers (2 units)",
+      "onion (2 units)",
+      "garlic (1 head)",
+      "green beans (300g)",
+      "new potatoes (500g)",
+      "sweet potato fries (300g)",
+      "portobello mushrooms (2 units)",
+      "arugula (100g)",
+      "spinach (100g)",
+      "cucumber (2 units)",
+      "swiss chard (300g)",
+      "mint (1 bunch)"
+    ],
+    "meat": [
+      "mackerel (2 fillets)",
+      "shrimp (200g)",
+      "duck breast (2 units)"
+    ],
+    "dairy": [
+      "mozzarella (200g)",
+      "provolone (100g)",
+      "halloumi (200g)",
+      "eggs (6 units)",
+      "butter (100g)"
+    ],
+    "grains": [
+      "whole grain baguette (1 unit)",
+      "basmati rice (200g)",
+      "orzo (200g)",
+      "rice noodles (200g)",
+      "polenta (200g)",
+      "whole wheat wraps (2 units)"
+    ],
+    "others": [
+      "balsamic glaze (1 bottle)",
+      "lemon (3 units)",
+      "olive oil (1 bottle)",
+      "garlic aioli (1 jar)",
+      "peanuts (50g)",
+      "basil pesto (1 jar)",
+      "hummus (1 jar)",
+      "tzatziki (1 jar)",
+      "Picard Poulet Basquaise (1 meal)",
+      "Picard Lasagnes à la Bolognaise (1 meal)",
+      "port wine (100ml)"
+    ]
+  }
+}
