@@ -1,0 +1,80 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Spinach and Ricotta Stuffed Shells with Side of Arugula Salad (Lemon-Olive Oil Dressing)",
+      "dinner": "Grilled Zucchini and Eggplant Stacks with Burrata, Cherry Tomatoes, and Basil Pesto + Side of Toasted Baguette"
+    },
+    "tuesday": {
+      "lunch": "Picard Cannelloni aux Trois Fromages (Frozen Meal) with Side of Sautéed Spinach and Cherry Tomatoes",
+      "dinner": "Grilled Lamb Chops with Mint Yogurt Sauce, Roasted Potatoes, and Steamed Green Beans"
+    },
+    "wednesday": {
+      "lunch": "Crispy Tempeh Burger with Avocado, Lettuce, Tomato, and Garlic Aioli + Side of Sweet Potato Fries",
+      "dinner": "Thai-Inspired Coconut Curry with Shrimp, Bell Peppers, and Jasmine Rice"
+    },
+    "thursday": {
+      "lunch": "Mediterranean Tuna and White Bean-Free Salad with Olives, Cherry Tomatoes, Red Onion, and Parsley + Side of Crusty Bread",
+      "dinner": "Picard Boeuf à la Bordelaise (Frozen Meal) with Side of Buttered Egg Noodles and Steamed Asparagus"
+    },
+    "friday": {
+      "lunch": "Grilled Halloumi and Watermelon Salad with Mint, Cucumber, and Pomegranate Seeds + Side of Whole Grain Baguette",
+      "dinner": "Seared Salmon with Lemon-Dill Sauce, Quinoa, and Sautéed Swiss Chard"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "spinach (300g)",
+      "arugula (100g)",
+      "zucchini (3 units)",
+      "eggplant (2 units)",
+      "cherry tomatoes (500g)",
+      "basil (1 bunch)",
+      "green beans (300g)",
+      "bell peppers (2 units)",
+      "asparagus (300g)",
+      "swiss chard (300g)",
+      "cucumber (2 units)",
+      "lettuce (1 head)",
+      "red onion (1 unit)",
+      "parsley (1 bunch)",
+      "mint (1 bunch)",
+      "watermelon (300g)",
+      "avocado (2 units)"
+    ],
+    "meat": [
+      "lamb chops (4 units)",
+      "shrimp (200g)",
+      "salmon fillets (2 units)"
+    ],
+    "dairy": [
+      "ricotta (250g)",
+      "burrata (1 unit)",
+      "halloumi (200g)",
+      "yogurt (100g)",
+      "butter (100g)"
+    ],
+    "grains": [
+      "jumbo pasta shells (200g)",
+      "baguette (1 unit)",
+      "whole grain baguette (1 unit)",
+      "jasmine rice (200g)",
+      "quinoa (200g)",
+      "egg noodles (200g)",
+      "sweet potato fries (300g)",
+      "whole wheat buns (2 units)"
+    ],
+    "others": [
+      "tempeh (200g)",
+      "garlic aioli (1 jar)",
+      "basil pesto (1 jar)",
+      "olive oil (1 bottle)",
+      "lemon (4 units)",
+      "coconut milk (1 can)",
+      "curry paste (1 jar)",
+      "olives (100g)",
+      "pomegranate seeds (50g)",
+      "Picard Cannelloni aux Trois Fromages (1 meal)",
+      "Picard Boeuf à la Bordelaise (1 meal)"
+    ]
+  }
+}
