@@ -1,0 +1,80 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Mozzarella and Tomato Panini with Pesto Drizzle + Side of Roasted Zucchini and Cherry Tomatoes",
+      "dinner": "Provençal Vegetable Tian with Poached Eggs and Side of Mixed Greens (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Saumon en Papillote (Frozen Meal) with Side of Steamed Broccoli and Basmati Rice",
+      "dinner": "Grilled Pork Tenderloin with Mustard-Honey Glaze, Roasted Sweet Potatoes, and Sautéed Green Beans"
+    },
+    "wednesday": {
+      "lunch": "Falafel Burger with Tahini Sauce, Lettuce, Tomato, and Pickled Red Onions + Side of Carrot and Cucumber Salad",
+      "dinner": "Thai Green Curry with Chicken, Bell Peppers, and Jasmine Rice"
+    },
+    "thursday": {
+      "lunch": "Italian Farro Salad with Roasted Cherry Tomatoes, Arugula, Parmesan, and Balsamic Glaze + Grilled Halloumi",
+      "dinner": "Picard Boeuf aux Carottes (Frozen Meal) with Side of Buttered Egg Noodles and Steamed Asparagus"
+    },
+    "friday": {
+      "lunch": "Grilled Vegetable and Ricotta Tartine with Side of Mixed Greens (Balsamic Dressing)",
+      "dinner": "Seared Cod with Lemon-Caper Butter, Quinoa, and Sautéed Spinach"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "zucchini (3 units)",
+      "cherry tomatoes (500g)",
+      "mixed greens (200g)",
+      "broccoli (300g)",
+      "green beans (300g)",
+      "sweet potatoes (2 units)",
+      "bell peppers (2 units)",
+      "carrot (2 units)",
+      "cucumber (2 units)",
+      "lettuce (1 head)",
+      "arugula (100g)",
+      "spinach (200g)",
+      "asparagus (300g)",
+      "tomato (3 units)",
+      "red onion (1 unit)"
+    ],
+    "meat": [
+      "pork tenderloin (300g)",
+      "chicken breast (300g)",
+      "cod fillets (2 units)"
+    ],
+    "dairy": [
+      "mozzarella (200g)",
+      "parmesan (50g)",
+      "ricotta (200g)",
+      "halloumi (200g)",
+      "eggs (6 units)",
+      "butter (100g)"
+    ],
+    "grains": [
+      "baguette (1 unit)",
+      "basmati rice (200g)",
+      "jasmine rice (200g)",
+      "quinoa (200g)",
+      "egg noodles (200g)",
+      "farro (200g)",
+      "whole wheat buns (2 units)"
+    ],
+    "others": [
+      "falafel mix (200g)",
+      "tahini (1 jar)",
+      "pesto (1 jar)",
+      "olive oil (1 bottle)",
+      "lemon (4 units)",
+      "balsamic glaze (1 bottle)",
+      "green curry paste (1 jar)",
+      "coconut milk (1 can)",
+      "mustard (1 jar)",
+      "honey (1 jar)",
+      "capers (50g)",
+      "Picard Saumon en Papillote (1 meal)",
+      "Picard Boeuf aux Carottes (1 meal)"
+    ]
+  }
+}
