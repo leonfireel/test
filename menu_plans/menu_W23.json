@@ -1,0 +1,85 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Grilled Halloumi and Peach Salad with Rocket, Walnuts, and Honey-Mustard Dressing + Side of Whole Grain Baguette",
+      "dinner": "Courgette and Pea Risotto with Parmesan and Lemon Zest + Side of Mixed Greens (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Hachis Parmentier (Frozen Meal) with Side of Sautéed Green Beans and Cherry Tomatoes",
+      "dinner": "Grilled Chicken Skewers with Satay Sauce, Coconut Rice, and Stir-Fried Bok Choy"
+    },
+    "wednesday": {
+      "lunch": "Chickpea and Sweet Potato Burger with Avocado, Lettuce, and Sriracha Mayo + Side of Carrot and Cucumber Ribbons",
+      "dinner": "Seared Scallops with Lemon-Garlic Butter, Orzo, and Sautéed Asparagus"
+    },
+    "thursday": {
+      "lunch": "Italian Tuna-Stuffed Tomatoes with Olives, Capers, and Parsley + Side of Toasted Ciabatta",
+      "dinner": "Picard Boeuf Bourguignon (Frozen Meal) with Side of Buttered Egg Noodles and Steamed Broccoli"
+    },
+    "friday": {
+      "lunch": "Grilled Aubergine and Mozzarella Panini with Pesto Drizzle + Side of Roasted Cherry Tomatoes",
+      "dinner": "Lemon-Herb Roasted Chicken Thighs with Garlic Mashed Potatoes and Sautéed Spinach"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "rocket (100g)",
+      "courgette (2 units)",
+      "peas (200g)",
+      "mixed greens (200g)",
+      "green beans (300g)",
+      "cherry tomatoes (500g)",
+      "bok choy (2 units)",
+      "asparagus (300g)",
+      "broccoli (300g)",
+      "spinach (200g)",
+      "tomato (4 units)",
+      "carrot (2 units)",
+      "cucumber (2 units)",
+      "aubergine (1 unit)",
+      "sweet potato (1 unit)",
+      "lettuce (1 head)"
+    ],
+    "meat": [
+      "chicken thighs (4 units)",
+      "chicken breast (300g)"
+    ],
+    "seafood": [
+      "scallops (200g)"
+    ],
+    "dairy": [
+      "halloumi (200g)",
+      "parmesan (50g)",
+      "mozzarella (200g)",
+      "butter (100g)"
+    ],
+    "grains": [
+      "whole grain baguette (1 unit)",
+      "arborio rice (200g)",
+      "jasmine rice (200g)",
+      "orzo (200g)",
+      "egg noodles (200g)",
+      "ciabatta (1 unit)",
+      "whole wheat buns (2 units)"
+    ],
+    "others": [
+      "peach (2 units)",
+      "walnuts (50g)",
+      "chickpea (1 can)",
+      "tuna in olive oil (2 cans)",
+      "olives (100g)",
+      "capers (50g)",
+      "parsley (1 bunch)",
+      "lemon (4 units)",
+      "olive oil (1 bottle)",
+      "honey (1 jar)",
+      "mustard (1 jar)",
+      "satay sauce (1 jar)",
+      "sriracha mayo (1 jar)",
+      "pesto (1 jar)",
+      "Picard Hachis Parmentier (1 meal)",
+      "Picard Boeuf Bourguignon (1 meal)",
+      "coconut milk (1 can)"
+    ]
+  }
+}
