@@ -1,0 +1,83 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Caprese Salad with Heirloom Tomatoes, Fresh Basil, and Balsamic Glaze + Side of Grilled Ciabatta",
+      "dinner": "Spinach and Ricotta Stuffed Crepes with Mushroom Sauce + Side of Mixed Greens (Lemon-Olive Oil Dressing)"
+    },
+    "tuesday": {
+      "lunch": "Picard Poulet Basquaise (Frozen Meal) with Side of Steamed Green Beans and Basmati Rice",
+      "dinner": "Grilled Duck Breast with Cherry-Port Sauce, Roasted Potatoes, and Sautéed Haricots Verts"
+    },
+    "wednesday": {
+      "lunch": "Mushroom and Swiss Cheese Burger with Caramelized Onions and Garlic Aioli + Side of Sweet Potato Fries",
+      "dinner": "Vietnamese Summer Rolls with Shrimp, Rice Vermicelli, Lettuce, Mint, and Peanut Dipping Sauce"
+    },
+    "thursday": {
+      "lunch": "Grilled Polenta with Roasted Cherry Tomatoes, Arugula, and Shaved Parmesan + Side of Grilled Zucchini",
+      "dinner": "Picard Lasagnes à la Bolognaise (Frozen Meal) with Side of Garlic Bread and Mixed Greens (Balsamic Dressing)"
+    },
+    "friday": {
+      "lunch": "Niçoise Salad with Seared Tuna, Green Beans, Cherry Tomatoes, Olives, Hard-Boiled Eggs, and Anchovies + Side of Whole Grain Baguette",
+      "dinner": "Grilled Swordfish with Lemon-Caper Butter, Couscous, and Ratatouille"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "heirloom tomatoes (4 units)",
+      "basil (1 bunch)",
+      "mixed greens (200g)",
+      "mushrooms (300g)",
+      "green beans (300g)",
+      "haricots verts (300g)",
+      "sweet potato (2 units)",
+      "lettuce (1 head)",
+      "mint (1 bunch)",
+      "arugula (100g)",
+      "zucchini (2 units)",
+      "cherry tomatoes (500g)",
+      "eggplant (1 unit)",
+      "bell pepper (2 units)",
+      "onion (2 units)",
+      "garlic (1 head)"
+    ],
+    "meat": [
+      "duck breast (2 units)",
+      "tuna steak (2 units)",
+      "swordfish (2 steaks)"
+    ],
+    "seafood": [
+      "shrimp (200g)"
+    ],
+    "dairy": [
+      "ricotta (250g)",
+      "swiss cheese (100g)",
+      "parmesan (50g)",
+      "butter (100g)",
+      "eggs (4 units)"
+    ],
+    "grains": [
+      "ciabatta (1 unit)",
+      "basmati rice (200g)",
+      "whole wheat buns (2 units)",
+      "rice vermicelli (100g)",
+      "polenta (200g)",
+      "couscous (200g)",
+      "baguette (1 unit)",
+      "garlic bread (1 unit)"
+    ],
+    "others": [
+      "balsamic glaze (1 bottle)",
+      "olive oil (1 bottle)",
+      "lemon (4 units)",
+      "cherries (200g)",
+      "port wine (100ml)",
+      "peanut butter (1 jar)",
+      "anchovies (1 can)",
+      "olives (100g)",
+      "capers (50g)",
+      "Picard Poulet Basquaise (1 meal)",
+      "Picard Lasagnes à la Bolognaise (1 meal)",
+      "crepes (6 units)"
+    ]
+  }
+}
