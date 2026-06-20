@@ -1,0 +1,80 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Avocado and Smoked Mozzarella Tartine with Roasted Cherry Tomatoes and Arugula + Side of Mixed Greens (Lemon-Olive Oil Dressing)",
+      "dinner": "Spinach and Goat-Free Pesto Stuffed Shells with Side of Grilled Zucchini and Bell Peppers"
+    },
+    "tuesday": {
+      "lunch": "Picard Boeuf Bourguignon (Frozen Meal) with Side of Buttered Egg Noodles and Steamed Broccoli",
+      "dinner": "Grilled Lamb Chops with Mint-Yogurt Sauce, Couscous, and Sautéed Eggplant"
+    },
+    "wednesday": {
+      "lunch": "Quinoa and Black Bean-Free Veggie Burger with Avocado, Lettuce, and Chipotle Mayo + Side of Sweet Potato Fries",
+      "dinner": "Seared Trout with Almond Brown Butter, Ratatouille, and Herbed Couscous"
+    },
+    "thursday": {
+      "lunch": "Grilled Halloumi and Watermelon Salad with Mint, Cucumber, and Lime Dressing + Side of Whole Grain Baguette",
+      "dinner": "Picard Poulet Rôti aux Herbes (Frozen Meal) with Side of Roasted Potatoes and Sautéed Green Beans"
+    },
+    "friday": {
+      "lunch": "Italian Tuna and White Bean-Free Salad with Red Onion, Capers, and Parsley + Side of Grilled Ciabatta",
+      "dinner": "Grilled Octopus with Lemon, Garlic, and Olive Oil, Served with Orzo and Sautéed Spinach"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "arugula (100g)",
+      "mixed greens (200g)",
+      "zucchini (3 units)",
+      "bell pepper (2 units)",
+      "cherry tomatoes (500g)",
+      "eggplant (1 unit)",
+      "broccoli (300g)",
+      "green beans (300g)",
+      "spinach (200g)",
+      "cucumber (2 units)",
+      "watermelon (300g)",
+      "lettuce (1 head)",
+      "red onion (1 unit)",
+      "potatoes (4 units)"
+    ],
+    "meat": [
+      "lamb chops (4 units)"
+    ],
+    "seafood": [
+      "trout fillets (2 units)",
+      "octopus (300g)",
+      "tuna in olive oil (2 cans)"
+    ],
+    "dairy": [
+      "smoked mozzarella (200g)",
+      "halloumi (200g)",
+      "parmesan (50g)",
+      "yogurt (150g)",
+      "butter (100g)"
+    ],
+    "grains": [
+      "jumbo pasta shells (200g)",
+      "whole grain baguette (1 unit)",
+      "ciabatta (1 unit)",
+      "couscous (200g)",
+      "quinoa (200g)",
+      "orzo (200g)",
+      "egg noodles (200g)",
+      "sweet potato (2 units)"
+    ],
+    "others": [
+      "avocado (2 units)",
+      "mint (1 bunch)",
+      "parsley (1 bunch)",
+      "lime (2 units)",
+      "lemon (4 units)",
+      "olive oil (1 bottle)",
+      "capers (50g)",
+      "almonds (50g)",
+      "chipotle mayo (1 jar)",
+      "Picard Boeuf Bourguignon (1 meal)",
+      "Picard Poulet Rôti aux Herbes (1 meal)"
+    ]
+  }
+}
