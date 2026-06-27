@@ -1,0 +1,79 @@
+{
+  "meal_plan": {
+    "monday": {
+      "lunch": "Provençal Omelette with Cherry Tomatoes, Zucchini, and Gruyère + Side of Mixed Greens (Balsamic Dressing) + Whole Grain Baguette",
+      "dinner": "Ratatouille Niçoise with Poached Eggs and Grilled Ciabatta"
+    },
+    "tuesday": {
+      "lunch": "Picard Saucisses de Toulouse aux Lentilles (Frozen Meal) with Side of Buttered Mashed Potatoes and Sautéed Green Beans",
+      "dinner": "Grilled Pork Tenderloin with Mustard-Honey Glaze, Roasted Sweet Potatoes, and Sautéed Haricots Verts"
+    },
+    "wednesday": {
+      "lunch": "Mushroom and Fontina Cheese Burger with Caramelized Onions and Truffle Aioli + Side of Arugula Salad (Lemon-Olive Oil Dressing)",
+      "dinner": "Pan-Seared Salmon with Lemon-Dill Sauce, Quinoa, and Steamed Asparagus"
+    },
+    "thursday": {
+      "lunch": "Greek-Style Orzo Salad with Cucumber, Cherry Tomatoes, Kalamata Olives, Red Onion, and Feta + Side of Grilled Pita Bread",
+      "dinner": "Picard Boeuf à la Mode (Frozen Meal) with Side of Buttered Egg Noodles and Roasted Carrots"
+    },
+    "friday": {
+      "lunch": "Grilled Vegetable and Mozzarella Panini with Pesto Drizzle + Side of Roasted Cherry Tomatoes and Mixed Greens",
+      "dinner": "Duck Confit with Pommes Sarladaises (Potatoes with Garlic and Duck Fat) and Sautéed Spinach"
+    }
+  },
+  "shopping_list": {
+    "vegetables": [
+      "zucchini (2 units)",
+      "cherry tomatoes (500g)",
+      "mixed greens (200g)",
+      "green beans (300g)",
+      "haricots verts (300g)",
+      "sweet potato (2 units)",
+      "asparagus (300g)",
+      "cucumber (2 units)",
+      "arugula (100g)",
+      "carrots (4 units)",
+      "spinach (200g)",
+      "eggplant (1 unit)",
+      "bell pepper (2 units)",
+      "onion (2 units)",
+      "garlic (1 head)"
+    ],
+    "meat": [
+      "pork tenderloin (300g)",
+      "duck confit (2 legs)"
+    ],
+    "seafood": [
+      "salmon fillets (2 units)"
+    ],
+    "dairy": [
+      "gruyère (100g)",
+      "fontina cheese (100g)",
+      "feta (100g)",
+      "mozzarella (200g)",
+      "butter (150g)",
+      "eggs (6 units)"
+    ],
+    "grains": [
+      "whole grain baguette (1 unit)",
+      "ciabatta (1 unit)",
+      "quinoa (200g)",
+      "orzo (200g)",
+      "egg noodles (200g)",
+      "pita bread (2 units)"
+    ],
+    "others": [
+      "kalamata olives (100g)",
+      "truffle aioli (1 jar)",
+      "lemon (4 units)",
+      "olive oil (1 bottle)",
+      "balsamic dressing (1 bottle)",
+      "honey (1 jar)",
+      "mustard (1 jar)",
+      "pesto (1 jar)",
+      "dill (1 bunch)",
+      "Picard Saucisses de Toulouse aux Lentilles (1 meal)",
+      "Picard Boeuf à la Mode (1 meal)"
+    ]
+  }
+}
